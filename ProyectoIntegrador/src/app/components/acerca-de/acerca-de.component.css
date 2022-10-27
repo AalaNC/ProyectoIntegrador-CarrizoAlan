@@ -34,40 +34,20 @@ div{
     width: 25%;
     border-radius: 100%;
     box-shadow: 3px 3px 3px gray;
-    left: 37%;
-    top: 13%;
+    left: 39%;
+    top: 50%;
   }
 }
 
-@media (max-width: 310px){
+@media (max-width: 315px){
   #foto-perfil{
     position: absolute;
-    width: 28%;
+    width: 20%;
     border-radius: 100%;
     box-shadow: 3px 3px 3px gray;
-    left: 34%;
-    top: 23%;
+    left: 38%;
+    top: 60%;
   }
 }
 
-@media (max-width: 245px){
-  #foto-perfil{
-    position: absolute;
-    width: 30%;
-    border-radius: 100%;
-    box-shadow: 3px 3px 3px gray;
-    left: 34%;
-    top: 32%;
-  }
-}
 
-@media (max-width: 150px){
-  #foto-perfil{
-    position: absolute;
-    width: 35%;
-    border-radius: 100%;
-    box-shadow: 3px 3px 3px gray;
-    left: 34%;
-    top: 35%;
-  }
-}
